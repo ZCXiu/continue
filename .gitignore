@@ -169,3 +169,9 @@ extensions/intellij/.idea/**
 
 extensions/intellij/bin
 extensions/.continue-debug/
+gui/package-lock.json
+extensions/vscode/package-lock.json
+docs/package-lock.json
+core/package-lock.json
+binary/package-lock.json
+package-lock.json
